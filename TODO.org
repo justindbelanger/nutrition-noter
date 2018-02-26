@@ -1,0 +1,6 @@
+* TODO meal planning
+It would be really useful to plan meals, in addition to being able to record what was ingested.
+* TODO calendar view
+Should be able to view diary/journal as a calendar or timeline, varying from month view, to week view, and finally to day view.
+* TODO nutrition goals
+For each day, keep track of the user's desired calories, macronutrients, food guide servings, water intake, etc.

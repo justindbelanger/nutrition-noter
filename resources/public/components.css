@@ -1,0 +1,28 @@
+.serving-edit {
+  min-height: 1rem;
+  margin: 0.4rem;
+  padding: 0.4rem;
+}
+
+.label-designer {
+  display: block;
+  margin: 0.2rem;
+  border: 0;
+  border-bottom: 0.2rem;
+  border-color: lightgreen;
+  border-style: solid;
+  width: 90%;
+}
+
+.notes-edit ol {
+  list-style: none;
+}
+
+.notes-edit {
+  border: 0.2rem solid lightgreen;
+  border-radius: 0.2rem;
+}
+
+.file-loader input[name='file-selector'] {
+  display: none;
+}

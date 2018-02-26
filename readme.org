@@ -1,0 +1,4 @@
+* purpose
+This is a food diary/journal Web app. At this point it's just a pet project that I used to teach myself more about Reagent, ClojureScript, etc.
+* usage
+Try boot dev to start watching for changes to the code and to start a REPL. boot build will just compile the ClojureScript code once. boot run-tests will run the unit tests.
