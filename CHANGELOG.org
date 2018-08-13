@@ -1,0 +1,5 @@
+* Changelog
+** 0.0.1 - 2018-02-26
+** Added
+- Creating notes with the name of the meal, what kind of food was eaten, when, and how much.
+- Loading and saving data as YAML files.
